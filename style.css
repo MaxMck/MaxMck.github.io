@@ -53,6 +53,7 @@ a:hover {
   border-radius: 4px;
   transition: all 0.3s ease;
   font-weight: 500;
+  display: inline-block;
 }
 
 .btn-red:hover {
